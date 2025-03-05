@@ -9,6 +9,7 @@ public class CommentJava {
         /* 여러 줄 주석
           System.out.println("여러 줄 주석");
           System.out.println("모두 주석처리");
+          System.out.println("보이지 않음");
         */
     }
 }
