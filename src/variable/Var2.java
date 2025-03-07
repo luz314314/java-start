@@ -5,9 +5,12 @@ public class Var2 {
         int a; //변수 선언
         a = 20; //10 -> 20
 
+        int b = 30;
+
         System.out.println(a);
         System.out.println(a);
         System.out.println(a);
+        System.out.println(b);
     }
 
 }
